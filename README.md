@@ -1,0 +1,1 @@
+# plugins-pwd-wp-favicon
